@@ -2,6 +2,7 @@
 
 /***
 Copyright (c) 2010 Shawn M. Douglas (shawndouglas.com)
+Copyright (c) 2012 Thomas Gries (changes, additions)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -31,7 +32,7 @@ echo "<html>
 <title>excel2wiki | Excel xls to MediaWiki copy and paste converter</title>
 </head>
 <body>
-<h1>Copy & Paste Excel-to-Wiki Converter</h1>
+<h1>Copy & Paste Excel-to-Mediawiki Converter</h1>
 <form action='' method='post'>
 	<textarea name='data' rows='10' cols='50'></textarea>
 	<br>
