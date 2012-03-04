@@ -1,6 +1,7 @@
 The MIT License
 
 Copyright (c) 2011 Wyss Institute at Harvard University
+Copyright (c) 2012 Thomas Gries (changes, additions)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,8 +31,7 @@ This script converts a tab-delimited string into a table with mediawiki markup.
 The most common usage is likely to be copying cells from an Excel spreadsheet
 and pasting the result into a mediawiki wiki, such as wikipedia.
 
-There are two versions of the script, index.php which is includes the
-\{\{table\}\} template and wikipedia.php, which does not.
+Based on https://github.com/sdouglas/excel2wiki .
 
 ## Installation
 
