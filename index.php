@@ -32,7 +32,7 @@ echo "<html>
 </head>
 <body>
 <h1>Copy & Paste Excel-to-Wiki Converter</h1>
-<form action='e2w.php' method='post'>
+<form action='' method='post'>
 	<textarea name='data' rows='10' cols='50'></textarea>
 	<br>
 	<input type='submit' />
