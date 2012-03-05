@@ -50,10 +50,9 @@ if ( $_SERVER['REQUEST_METHOD'] != 'POST' ) {
 	echo "<small><b>Instructions:</b><br>
 <ul>
 <li>Copy & paste cells from Excel and click submit. Paste results into your MediaWiki page.</li>
-<li>You can also download the <a style='text-decoration:none; color:blue;' href=\"https://github.com/Wikinaut/excel2wiki\">source code</a>.</li>
 </ul>
 <hr>
-Based on <a href=\"https://github.com/sdouglas/excel2wiki\">Excel2Wiki</a> by Shawn M. Douglas, 2010.<br/>
+Last updated 2012-03-05. <a style='text-decoration:none; color:blue;' href=\"https://github.com/Wikinaut/excel2mediawiki\">Source code</a> available. This script is based on <a href=\"https://github.com/sdouglas/excel2wiki\">Excel2Wiki</a> by Shawn M. Douglas, 2010.</br>
 ";
 } else {
 	$outbuf = "<h2>Result</h2>\n<pre>\n{| class=\"wikitable sortable\"\n";
